@@ -5,7 +5,7 @@ Description: A Social Bookmarking button from SociBook. With the button you can 
 Author: Biser Markov
 Author URI: http://socibook.com/
 Tags: social, bookmark, bookmarks, post, posts, link, links, page, pages, network, technorati, del.icio.us, digg, reddit, google, yahoo, facebook, permalink, url, button, media, plugin
-Stable tag: 0.1
+Stable tag: 2.0
 
 == Installation ==
 
