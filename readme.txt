@@ -4,6 +4,8 @@ Plugin URI: http://socibook.com/button.php
 Description: A Social Bookmarking button from SociBook. With the button you can add your Blog or Website content to the biggest Social Bookmarking sites (SociBook.com, Digg.com, Yahoo Buzz, Google, Delisious.com and Facebook). The button is a great way of getting traffic from the Social Bookmarking networks.
 Author: Biser Markov
 Author URI: http://socibook.com/
+Tags: social, bookmark, bookmarks, post, posts, link, links, page, pages, network, technorati, del.icio.us, digg, reddit, google, yahoo, facebook, permalink, url, button, media, plugin
+Stable tag: 0.1
 
 == Installation ==
 
